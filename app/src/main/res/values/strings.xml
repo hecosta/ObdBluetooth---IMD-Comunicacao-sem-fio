@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ObdBluetooth</string>
+    <string name="bluetooth">Bluetooth: </string>
+    <string name="id">Id: </string>
+    <string name="nome">Nome: </string>
+    <string name="mac">Mac: </string>
+    <string name="status">Situação: </string>
+    <string name="lista">Lista de Dispositivos</string>
+    <string name="obd">Instrumentos</string>
+    <string name="pressao">Pressão</string>
+    <string name="rpm">RPM</string>
+    <string name="velocimetro">Velocímetro</string>
+    <string name="temperatura">Temperatura:</string>
+    <string name="fluxo">Fluxo de Ar:</string>
+    <string name="btnLigarDesligar">Ligar Bluetooth</string>
+    <string name="btnFind">Dispositivos pareados</string>
+</resources>
