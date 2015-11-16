@@ -9,7 +9,7 @@ Video:
 https://youtu.be/uw0n4u74Uk0
 
 Git:
-https://github.com/hecosta/ObdBluetooth---IMD-Redes-Moveis
+https://github.com/hecosta/ObdBluetooth---IMD-Comunicacao-sem-fio
 
 Arquivo Zip
 https://www.dropbox.com/s/9ay4boohf70yhpl/ObdBluetooth.rar?dl=0
