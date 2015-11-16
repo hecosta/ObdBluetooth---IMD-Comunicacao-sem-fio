@@ -1,5 +1,5 @@
-# ObdBluetooth---IMD-Redes-Moveis
-Trabalho Redes Móveis
+# ObdBluetooth---IMD-Redes-Sem Fio
+Trabalho Redes Sem Fio
 
 Por 
 Henrique Eduardo Lima da Costa
